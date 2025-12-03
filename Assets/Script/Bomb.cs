@@ -21,6 +21,7 @@ public class Bomb : MonoBehaviour
         GameObject fx= Instantiate(fxFactory);
         fx.transform.position = transform.position;
 
+
         //다른 오브젝트 삭제
         //자기 자신도 삭제
         Destroy(gameObject);
