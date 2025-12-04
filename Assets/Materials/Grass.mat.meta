@@ -2,7 +2,7 @@ fileFormatVersion: 2
 guid: 21151a67417bc5e45a96bc07a3441ae0
 NativeFormatImporter:
   externalObjects: {}
-  mainObjectFileID: 0
+  mainObjectFileID: 2100000   # 최신 값 유지
   userData: 
   assetBundleName: 
   assetBundleVariant: 
